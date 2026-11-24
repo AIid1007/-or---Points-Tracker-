@@ -1,0 +1,10 @@
+{
+  "name": "Empower Journal",
+  "short_name": "Empower",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "icons": []
+}
